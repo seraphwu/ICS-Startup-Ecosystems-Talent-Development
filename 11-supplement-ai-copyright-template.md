@@ -1,16 +1,3 @@
----
-filename: 11-supplement-ai-copyright-template.md
-title: AI 生成內容權利聲明 (學生公版範本)
-course: ICS Startup Ecosystems & Talent Development
-week: 11
-date: 2026-05-07
-status: active
-version: 1
-project: 114-2-資傳人才新創育成
-area: SHU
-created: 2026-05-06T20:00:00
-updated: 2026-05-06T20:00:00
----
 
 # [專案/公司名稱] 數位資產與 AI 生成內容權利聲明
 **最後更新日期：[YYYY-MM-DD]**
